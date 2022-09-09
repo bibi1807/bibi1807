@@ -1,0 +1,13 @@
+body {background-color: rgb(30, 96, 139);}
+h1{font-size: 80px; color: rgb(255, 255, 255);}
+#banner {width:100%; align-self ;}
+p{background: #93bee2; padding: 30px;}
+p {text-align: center; color: rgb(0, 0, 0);}
+#missao {font-size: color rgb(0, 0, 0) 20px}
+em strong {color: #2515813a;}
+.itens {font-style: italic; color:  black;}
+.beneficios {background: #000000;   padding: 20px;}
+ul {display: inline-block;  vertical-align: top;    width: 20%; margin-right: 15%;}
+.imagembeneficios { width: 50%;}
+.img { width: 50%; padding-left: 25%;
+}
